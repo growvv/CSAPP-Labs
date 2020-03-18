@@ -12,7 +12,7 @@
 
  是我写的笔记：
 
-1. [Data Lab 笔记](./notes/datalab.md)
+#### [Data Lab 笔记](./notes/datalab.md)
 
 - 涉及了位运算，补码和浮点数的位级表示
 
@@ -20,7 +20,7 @@
 
 - 只能使用有限数量、部分的运算符。具体来说就是 `!~&^|+<<>>` 这8种
 
-2. [Bomb Lab 笔记](./notes/bomb.md)
+#### [Bomb Lab 笔记](./notes/bomb.md)
 
 - 拆除二进制炸弹，每个炸弹考察了机器级程序语言的不同方面
 
@@ -29,7 +29,7 @@
 - 你需要使用gdb调试器和objdump
   
 
-3. [Attack Lab 笔记](./notes/attack.md)
+#### [Attack Lab 笔记](./notes/attack.md)
 
  - 这个 lab 主要涉及了栈随机化，不可执行等栈保护的方法和使栈溢出、 ROP 攻击等内容。
  
@@ -38,7 +38,7 @@
  - 能更熟悉的使用gdb和objdump这样的调试工具
  
 
-4. [Shell Lab 笔记](./notes/shelllab.md)
+#### [Shell Lab 笔记](./notes/shelllab.md)
 
 - 实现一个简单的支持作业控制的Unix shell 程序
 
