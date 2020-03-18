@@ -18,7 +18,7 @@
 
 - [Bomb Lab 笔记](./notes/bomb.md)
 
-拆除二进制炸弹，可以大大提升看汇编代码的能力。
+拆除二进制炸弹，可以大大提升看汇编代码的能力和GDB调试能力。
 
 - [Attack Lab 笔记](./notes/attack.md)
 
